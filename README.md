@@ -52,12 +52,11 @@ endmodule
 
 ## Output:
 ## RTL
-![f1](https://user-images.githubusercontent.com/118680259/232874835-8f044e00-89d2-4af7-9cbe-2f67efa8fd95.png)
-![f2](https://user-images.githubusercontent.com/118680259/232875035-56c05fd9-1b26-4821-9995-55b89a296e81.png)
+![f1 viewer](https://user-images.githubusercontent.com/118680259/232877229-87a92fc0-db13-4ff3-b803-1d38f012083d.png)
+![f 2 viewer](https://user-images.githubusercontent.com/118680259/232877105-15984cd9-2446-4e4e-b4ae-a881b91649d6.png)
 
 ## Timing Diagram
-![Uploading f1 viewer.png…]()
-![Uploading f 2 viewer.png…]()
-
+![f1](https://user-images.githubusercontent.com/118680259/232874835-8f044e00-89d2-4af7-9cbe-2f67efa8fd95.png)
+![f2](https://user-images.githubusercontent.com/118680259/232875035-56c05fd9-1b26-4821-9995-55b89a296e81.png)
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
